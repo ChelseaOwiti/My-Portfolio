@@ -27,8 +27,8 @@ ul{
 }
 ul li{
   float: inline-end;
-  width: 200px;
-  height: 40px;
+  width: 400px;
+  height: 70px;
   background-color: black;
   opacity: .8;
   line-height: 40px;
