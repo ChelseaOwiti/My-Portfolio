@@ -7,10 +7,6 @@ This is a portfolio webpage that contains my personal information and the projec
 * [Home](#Home)
 * [About](#About)
 * [Projects](#Projects)
-## Setup/Installation Requirements
-
-
-
 ## Technologies Used
 CSS
 HTML
