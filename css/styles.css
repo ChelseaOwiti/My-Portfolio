@@ -28,9 +28,9 @@ ul{
 
 }
 ul li{
-  float: inline-start;
-  width: 400px;
-  height: 70px;
+  float: left;
+  width: 600px;
+  height: 60px;
   background-color: black;
   opacity: .8;
   line-height: 40px;

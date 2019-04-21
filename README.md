@@ -8,7 +8,7 @@ This is a portfolio webpage that contains my personal information and the projec
 * [About](#About)
 * [Projects](#Projects)
 ## Technologies Used
-CSS
+CSS,
 HTML
 ## Support and contact details
 If any problems are encountered feel free to contact me. If you feel the need to contribute please do so.
