@@ -28,7 +28,7 @@ ul{
 
 }
 ul li{
-  float: inline-end;
+  float: inline-start;
   width: 400px;
   height: 70px;
   background-color: black;
