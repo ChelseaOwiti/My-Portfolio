@@ -1,6 +1,7 @@
 body{
   background-image: url("../images/background.jpg");
   background-repeat: no-repeat;
+  background-size: cover;
   color: white;
   
 }
@@ -9,15 +10,16 @@ h1{
   line-height: 200px;
   text-align: center;
   font-size: 60px;
-  font-family: fantasy;
-  padding: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 10px;
 }
 h2{
   height: 200px;
   line-height: 200px;
   text-align: center;;
   font-size: 40px;
-  font-family: cursive;
+  font-style: italic;
+  
 }
 ul{
   margin: 0px;
@@ -50,3 +52,12 @@ ul li ul li{
 ul li:hover ul li{
   display: block;
  }
+ .about{
+   font-size: 40px;
+   font-family: 'Times New Roman', Times, serif;
+   padding: 10px;
+   color: black;
+ }
+ 
+
+ 
